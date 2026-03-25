@@ -1,1 +1,2 @@
-file 6 content
+file6  created from feature
+
